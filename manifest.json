@@ -1,0 +1,9 @@
+{
+  "name": "ADC Cresco Meeting Room",
+  "short_name": "ADC Cresco",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#DB3131",
+  "icons": [{ "src": "apple-touch-icon.png", "sizes": "512x512", "type": "image/png" }]
+}
